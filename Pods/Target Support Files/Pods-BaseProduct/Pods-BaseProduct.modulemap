@@ -1,0 +1,6 @@
+framework module Pods_LineTimeDemo {
+  umbrella header "Pods-LineTimeDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

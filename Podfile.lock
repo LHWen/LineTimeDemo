@@ -1,0 +1,20 @@
+PODS:
+  - Masonry (1.0.2)
+  - SVProgressHUD (2.2.1)
+
+DEPENDENCIES:
+  - Masonry
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Masonry
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SVProgressHUD: db27c54e6e18bc903341661fc9feb55e04905cc4
+
+PODFILE CHECKSUM: 871003e46c503794c4c2958b9cb903fd98495481
+
+COCOAPODS: 1.8.4
